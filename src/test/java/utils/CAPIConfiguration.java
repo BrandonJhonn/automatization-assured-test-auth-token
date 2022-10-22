@@ -1,7 +1,5 @@
 package utils;
 
-import factoryRequest.CFactoryRequest;
-
 public class CAPIConfiguration {
 
     /** API AUTHENTICATION TOKEN*/

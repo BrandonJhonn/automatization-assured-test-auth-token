@@ -5,13 +5,10 @@ import factoryRequest.CInfoRequest;
 import io.restassured.response.Response;
 import org.joda.time.DateTime;
 import org.json.JSONObject;
-import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import utils.CAPIConfiguration;
 import utils.CGetProperties;
-
-import java.util.Date;
 
 import static org.hamcrest.Matchers.equalTo;
 
